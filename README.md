@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/misterio-eterno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Misterio eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/misterio-eterno/) |
+| **Get License** | [Get a Licensing Quote for Misterio eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/misterio-eterno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche es un misterio eterno, nena, tú y yo
+> En lo oscuro de la disco, perdiendo el control
+> Tus ojitos me llaman, me invitan a caer
+> Un juego prohibido que no quiero perder
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
