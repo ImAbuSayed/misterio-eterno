@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/misterio-eterno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Misterio eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/misterio-eterno/) |
+| **Get License** | [License this song: Misterio eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/misterio-eterno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `491324237cfe84dcbeb6750ea043f8dd9c6bcd24c3c80a2e6a1fd1d512144194` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
